@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "MoneyWastedCallTeams — captura do Teams",
+  "version": "0.2.1",
+  "description": "Lê a lista de participantes da reunião no Teams Web e envia para o MoneyWastedCallTeams rodando em localhost.",
+  "action": { "default_title": "MoneyWastedCallTeams — participantes detectados" },
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [
+    {
+      "matches": ["https://teams.microsoft.com/*", "https://teams.live.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "host_permissions": ["http://localhost:5173/*"]
+}

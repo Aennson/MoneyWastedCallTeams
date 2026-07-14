@@ -1,0 +1,324 @@
+[
+  {
+    "cbo": "317110",
+    "titulo": "Programador de sistemas de informação",
+    "aliases": [
+      "desenvolvedor",
+      "dev",
+      "programador",
+      "developer",
+      "software engineer",
+      "engenheiro de software"
+    ]
+  },
+  {
+    "cbo": "317105",
+    "titulo": "Programador de internet",
+    "aliases": [
+      "desenvolvedor web",
+      "front-end",
+      "frontend",
+      "back-end",
+      "backend",
+      "fullstack",
+      "full stack"
+    ]
+  },
+  {
+    "cbo": "212405",
+    "titulo": "Analista de desenvolvimento de sistemas",
+    "aliases": [
+      "analista de sistemas",
+      "analista desenvolvedor",
+      "system analyst",
+      "qa",
+      "analista de testes",
+      "tester",
+      "quality assurance"
+    ]
+  },
+  {
+    "cbo": "211110",
+    "titulo": "Especialista em pesquisa operacional",
+    "aliases": [
+      "cientista de dados",
+      "data scientist",
+      "analista de dados",
+      "data analyst"
+    ]
+  },
+  {
+    "cbo": "262410",
+    "titulo": "Desenhista industrial (designer)",
+    "aliases": [
+      "designer",
+      "ux",
+      "ui",
+      "product designer",
+      "ux/ui"
+    ]
+  },
+  {
+    "cbo": "212410",
+    "titulo": "Analista de redes e comunicação de dados",
+    "aliases": [
+      "analista de redes",
+      "network analyst"
+    ]
+  },
+  {
+    "cbo": "212415",
+    "titulo": "Analista de sistemas de automação",
+    "aliases": [
+      "automação",
+      "rpa"
+    ]
+  },
+  {
+    "cbo": "212420",
+    "titulo": "Analista de suporte computacional",
+    "aliases": [
+      "suporte",
+      "help desk",
+      "service desk",
+      "analista de suporte",
+      "n1",
+      "n2",
+      "técnico de suporte",
+      "field service"
+    ]
+  },
+  {
+    "cbo": "212305",
+    "titulo": "Administrador de banco de dados",
+    "aliases": [
+      "dba",
+      "banco de dados",
+      "database administrator"
+    ]
+  },
+  {
+    "cbo": "212310",
+    "titulo": "Administrador de redes",
+    "aliases": [
+      "administrador de rede",
+      "infraestrutura",
+      "network admin"
+    ]
+  },
+  {
+    "cbo": "212315",
+    "titulo": "Administrador de sistemas operacionais",
+    "aliases": [
+      "sysadmin",
+      "administrador de sistemas"
+    ]
+  },
+  {
+    "cbo": "212320",
+    "titulo": "Administrador em segurança da informação",
+    "aliases": [
+      "segurança da informação",
+      "security",
+      "cybersecurity",
+      "infosec",
+      "analista de segurança"
+    ]
+  },
+  {
+    "cbo": "TI-ARQ",
+    "titulo": "Arquiteto de software",
+    "aliases": [
+      "arquiteto de soluções",
+      "solution architect",
+      "arquiteto"
+    ]
+  },
+  {
+    "cbo": "TI-TL",
+    "titulo": "Tech Lead",
+    "aliases": [
+      "líder técnico",
+      "tech leader"
+    ]
+  },
+  {
+    "cbo": "TI-DEVOPS",
+    "titulo": "Engenheiro DevOps",
+    "aliases": [
+      "devops"
+    ]
+  },
+  {
+    "cbo": "TI-SRE",
+    "titulo": "Engenheiro de confiabilidade (SRE)",
+    "aliases": [
+      "sre",
+      "site reliability"
+    ]
+  },
+  {
+    "cbo": "TI-CLOUD",
+    "titulo": "Engenheiro de cloud",
+    "aliases": [
+      "cloud",
+      "aws",
+      "azure",
+      "gcp"
+    ]
+  },
+  {
+    "cbo": "TI-DATA",
+    "titulo": "Engenheiro de dados",
+    "aliases": [
+      "data engineer",
+      "engenheiro de dados"
+    ]
+  },
+  {
+    "cbo": "TI-SM",
+    "titulo": "Scrum Master",
+    "aliases": [
+      "agilista",
+      "agile master"
+    ]
+  },
+  {
+    "cbo": "TI-PO",
+    "titulo": "Product Owner",
+    "aliases": [
+      "po",
+      "dono do produto"
+    ]
+  },
+  {
+    "cbo": "TI-PM",
+    "titulo": "Product Manager",
+    "aliases": [
+      "gerente de produto",
+      "product"
+    ]
+  },
+  {
+    "cbo": "142505",
+    "titulo": "Gerente de desenvolvimento de sistemas",
+    "aliases": [
+      "gerente de desenvolvimento",
+      "engineering manager",
+      "gerente de engenharia"
+    ]
+  },
+  {
+    "cbo": "142510",
+    "titulo": "Gerente de produção da tecnologia da informação",
+    "aliases": [
+      "gerente de infraestrutura",
+      "gerente de operações de ti"
+    ]
+  },
+  {
+    "cbo": "142515",
+    "titulo": "Gerente de projetos de tecnologia da informação",
+    "aliases": [
+      "gerente de projetos",
+      "project manager",
+      "pm",
+      "gpm"
+    ]
+  },
+  {
+    "cbo": "142520",
+    "titulo": "Gerente de segurança da informação",
+    "aliases": [
+      "gerente de segurança"
+    ]
+  },
+  {
+    "cbo": "142525",
+    "titulo": "Tecnólogo em gestão da tecnologia da informação",
+    "aliases": [
+      "gestor de ti",
+      "coordenador de ti",
+      "it manager"
+    ]
+  },
+  {
+    "cbo": "TI-SDM",
+    "titulo": "Gerente de service delivery",
+    "aliases": [
+      "service delivery manager",
+      "sdm",
+      "gerente de entrega de serviços"
+    ]
+  },
+  {
+    "cbo": "TI-SDC",
+    "titulo": "Coordenador de service delivery",
+    "aliases": [
+      "coordenador de entrega",
+      "delivery coordinator"
+    ]
+  },
+  {
+    "cbo": "TI-SDA",
+    "titulo": "Analista de service delivery",
+    "aliases": [
+      "service delivery analyst",
+      "itsm",
+      "itil",
+      "analista de entrega"
+    ]
+  },
+  {
+    "cbo": "121010",
+    "titulo": "Diretor geral (CEO)",
+    "aliases": [
+      "ceo",
+      "presidente",
+      "diretor executivo",
+      "chief executive officer"
+    ]
+  },
+  {
+    "cbo": "123205",
+    "titulo": "Diretor financeiro (CFO)",
+    "aliases": [
+      "cfo",
+      "diretor de finanças",
+      "chief financial officer"
+    ]
+  },
+  {
+    "cbo": "123105",
+    "titulo": "Diretor administrativo",
+    "aliases": [
+      "diretor adm",
+      "director"
+    ]
+  },
+  {
+    "cbo": "TI-CTO",
+    "titulo": "Diretor de tecnologia (CTO)",
+    "aliases": [
+      "cto",
+      "chief technology officer"
+    ]
+  },
+  {
+    "cbo": "TI-CIO",
+    "titulo": "Diretor de TI (CIO)",
+    "aliases": [
+      "cio",
+      "chief information officer"
+    ]
+  },
+  {
+    "cbo": "TI-COO",
+    "titulo": "Diretor de operações (COO)",
+    "aliases": [
+      "coo",
+      "chief operating officer",
+      "diretor de operações"
+    ]
+  }
+]
