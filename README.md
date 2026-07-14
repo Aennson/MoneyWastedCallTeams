@@ -24,9 +24,15 @@ npm test         # suíte Vitest (lib de parsing/cálculo)
 
 ## Captura ao vivo do Teams Web (extensão)
 
-1. Abra `edge://extensions`, ligue o **Modo de desenvolvedor**.
-2. **Carregar sem compactação** → escolha a pasta `extension/` deste repositório.
-3. Deixe `npm run dev` rodando e abra a reunião no **Teams Web** (teams.microsoft.com) no Edge.
+A mesma pasta `extension/` funciona no **Microsoft Edge** e no **Google Chrome** (é uma
+extensão Manifest V3 padrão Chromium — não há versão separada por navegador).
+
+1. Abra `edge://extensions` (Edge) ou `chrome://extensions` (Chrome) e ligue o
+   **Modo de desenvolvedor**.
+2. **Carregar sem compactação** (Edge) / **Carregar expandida** (Chrome) → escolha a
+   pasta `extension/` deste repositório.
+3. Deixe `npm run dev` rodando e abra a reunião no **Teams Web** (teams.microsoft.com)
+   no mesmo navegador.
 4. Abra o painel **Participantes** da reunião (a captura completa depende dele; sem o painel,
    vale o fallback pelos tiles de vídeo). Quando o painel tem seções, **só quem está em
    "Nesta reunião" conta** — "Convidados", "Outros convidados", lobby e qualquer outra seção
@@ -40,6 +46,8 @@ de seletores para recalibrar `extension/content.js`.
 
 Limitações: só Teams **Web** (não o app desktop); cargo/salário continuam vindo do seu
 mapeamento salvo — nomes novos aparecem como "pendente" e podem ser mapeados na hora.
+A extensão fala com `http://localhost:5173`, então o `npm run dev` precisa estar rodando
+na mesma máquina, seja qual for o navegador.
 
 ## Dados salariais
 
